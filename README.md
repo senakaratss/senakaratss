@@ -20,20 +20,9 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Sena's GitHub stats](https://github-readme-stats.vercel.app/api?username=senakaratss&show_icons=true&theme=tokyonight)  
-
----
-
-## 📈 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senakaratss&layout=compact&theme=tokyonight)  
-
----
-
 ## 📫 Contact Me
 - **GitHub:** [senakaratss](https://github.com/senakaratss)  
 - **Email:** karatasssena@gmail.com  
-- **LinkedIn:** [linkedin.com/in/sena-karataş](#) 
+- **LinkedIn:** [linkedin.com/in/sena-karataş](https://linkedin/in/sena-karatas) 
 
----
-✨ *"Coding is the art of turning imagination into reality."*
+
