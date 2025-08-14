@@ -23,6 +23,6 @@
 ## 📫 Contact Me
 - **GitHub:** [senakaratss](https://github.com/senakaratss)  
 - **Email:** karatasssena@gmail.com  
-- **LinkedIn:** [linkedin.com/in/sena-karataş](www.linkedin.com/in/sena-karataş) 
+- **LinkedIn:** [linkedin.com/in/sena-karataş](https://www.linkedin.com/in/sena-karataş) 
 
 
