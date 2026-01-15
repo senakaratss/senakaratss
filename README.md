@@ -1,24 +1,36 @@
 # 👋 Hi, I'm Sena Karataş  
 
-🎓 I am a **Computer Engineering** graduate (Antalya Bilim University, GPA: 3.26).  
-💻 I work in full-stack web development, focusing especially on **MERN Stack** technologies.  
-⚡ I enjoy backend integrations, database management, and designing user-focused interfaces the most in the software development process.  
+🎓 Computer Engineering graduate from **Antalya Bilim University** (GPA: 3.26).  
+💻 I have developed full-stack projects mainly using **MERN Stack** technologies and I am currently focusing on **.NET and full-stack development**.  
+⚙️ I am especially interested in backend development, database management, and building scalable web applications.  
 
-💡 I see coding not only as a technical task but also as a **creative and solution-oriented process**.  
-🚀 My goal is to continuously improve myself and create innovative, impactful solutions in the tech world.  
+💡 I see software development not only as writing code, but as a **problem-solving and continuous learning process**.  
+🚀 My goal is to grow as a junior software developer and contribute to impactful, real-world projects.  
 
-🌱 I am currently focused on learning new technologies in web development and enhancing my skills.  
+🌱 Currently improving my skills in web technologies and backend development.
 
 ---
 
 ## 🛠 Skills
-- **Frontend:** React.js, TailwindCSS, Zustand, React Router DOM, Axios  
-- **Backend:** Node.js, Express.js, PHP, Python  
-- **Database:** MongoDB, MySQL, Firebase Firestore  
-- **Others:** Git, GitHub, JWT, Cloudinary, Stripe, Socket.io  
-- **Languages:** JavaScript, C#, PHP, Python  
 
----
+**Frontend**
+- React.js, TailwindCSS, Zustand  
+- React Router DOM, Axios  
+
+**Backend**
+- Node.js, Express.js  
+- .NET, PHP, Python  
+
+**Database**
+- MSSQL, MongoDB, MySQL  
+
+**Other**
+- Git, GitHub  
+- JWT, Cloudinary, Stripe  
+- Socket.io  
+
+**Programming Languages**
+- JavaScript, C#, PHP, Python
 
 ## 📫 Contact Me
 - **GitHub:** [senakaratss](https://github.com/senakaratss)  
